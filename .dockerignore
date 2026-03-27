@@ -1,0 +1,9 @@
+target/
+*.Jar
+.git/
+.mvn/
+mvnw
+mvnw.cmd
+.env
+Dockerfile
+docker-compose.yml
